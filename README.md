@@ -2,6 +2,12 @@
 
 1. Create a new React Application:
 2. Create a GIthub repo and commit those previous step files.
+
+![image](https://user-images.githubusercontent.com/54339107/191625645-75850439-4771-48f4-81b6-f6bf7bcd2ef9.png)
+
+![image](https://user-images.githubusercontent.com/54339107/191625827-45ea2d96-c52f-4200-bf37-2938e4ecf963.png)
+
+
 3. Create base layout for the login ( email box, password box, login button, basic styling ), you should use a UI Library like mui or ant
 4. Make sure you identify all those potential components and split your code according to it.
 
