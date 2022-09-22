@@ -15,6 +15,8 @@ _____
 # React Challenge
 
 1. Instead of just using CSS, let's implement your styles using SASS. Read installation manual and replace your .css files by .scss ones
+
+
 ____
 
 # Additional Resources
