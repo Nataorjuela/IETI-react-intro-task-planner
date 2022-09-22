@@ -1,0 +1,31 @@
+h1{
+    position: relative;
+    left: 900px;
+}
+
+.emailBox{
+    position: relative;
+    left: 900px;
+}
+
+.passwordBox{
+    position: relative;
+    left: 680px;
+    top:80px;
+}
+
+
+.loginButton {
+    /* Calling a mixin function name center by 
+       passing row as a information
+       to it's actual argument */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    /* Accessing variable using a '$' dollar sign */
+    height: 35px;
+    left: 500px;
+    top: 160px;
+  }
+
