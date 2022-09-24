@@ -16,7 +16,7 @@ _____
 
 1. Instead of just using CSS, let's implement your styles using SASS. Read installation manual and replace your .css files by .scss ones
 
-
+![image](https://github.com/Nataorjuela/IETI-react-intro-task-planner/blob/master/Images/Imagen1.jpg)
 ____
 
 # Additional Resources
